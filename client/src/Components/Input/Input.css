@@ -1,0 +1,56 @@
+.form {
+    display: flex;
+    border-radius: 40px;
+    background-color: white;
+    margin-bottom: 5px;
+  }
+  
+  .input {
+    border: none;
+    border-radius: 40px;
+    padding: 2%;
+    margin: 2px;
+    width: 85%;
+    font-size: 1.2em;
+    border: #a9c6f9 solid 1px;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+  
+  input:focus, textarea:focus, select:focus{
+    outline: none;
+  }
+  
+  .sendButton {
+    color: #fff !important;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 50px;
+    background: #2979FF;
+    padding: 10px;
+    display: inline-block;
+    border: none;
+    width: 7%;
+    margin-bottom: 5px;
+  }
+
+  @media (max-width: 1025px){
+    .sendButton{
+      width: 9%;
+    }
+    .input{
+      width: 80%;
+    }
+    
+  }
+
+  @media (max-width: 750px){
+    .sendButton{
+      width: 12%;
+    }
+    .input{
+      width: 80%;
+      margin-right: 10px;
+    }
+    
+  }
