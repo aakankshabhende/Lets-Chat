@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Lets-Chat/static/css/main.089e5861.css",
+    "main.js": "/Lets-Chat/static/js/main.5c64e7b7.js",
+    "index.html": "/Lets-Chat/index.html",
+    "main.089e5861.css.map": "/Lets-Chat/static/css/main.089e5861.css.map",
+    "main.5c64e7b7.js.map": "/Lets-Chat/static/js/main.5c64e7b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.089e5861.css",
+    "static/js/main.5c64e7b7.js"
+  ]
+}
