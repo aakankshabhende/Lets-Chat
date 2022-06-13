@@ -30,8 +30,6 @@ Built over ReactJS, it is a client-side rendered and responsive component. <br/>
 
 ## Chat 👤
 
-<img src="https://github.com/aakankshabhende/Lets-Chat/blob/main/Assets/chat.png" width = "300px">
-
 ### Users
 
 <p>
@@ -39,3 +37,6 @@ Built over ReactJS, it is a client-side rendered and responsive component. <br/>
 
 <img src="https://github.com/aakankshabhende/Lets-Chat/blob/main/Assets/user2.png" width = "800px">
 </p>
+
+#### Responsiveness ✅
+<img src="https://github.com/aakankshabhende/Lets-Chat/blob/main/Assets/chat.png" width = "300px">
